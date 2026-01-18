@@ -19,7 +19,7 @@ La versión **HOSS(-5)** implementa una sociedad artificial de pequeña escala d
 *   Toma decisiones condicionadas por su psicología, estatus económico e intencionalidad.
 *   Interactúa indirectamente con otros individuos a través de familias, empresas y Estado.
 
-El sistema permite similar algunos miles de ph() durante decenas de años virtuales y generar grandes volúmenes de datos para su análisis posterior.
+El sistema permite simular algunos miles de ph() durante decenas de años virtuales y generar grandes volúmenes de datos para su análisis posterior.
 
 ## 4. Arquitectura del modelo
 
@@ -99,7 +99,7 @@ Hoy tengo 76 años. Sigo caminando, pero también cerrando etapas.
 
 HOSS se libera con la esperanza de que alguien, en algún momento, quiera retomarlo, discutirlo, criticarlo y transformarlo.
 
-Las versiones recientes han sido desarrolladas con la colaboración de **Gemini (Google)** y **ChatGPT (OpenAI)**. Las ideas, el marco conceptual y la validación crítica son humanos; la implementación ha sido asistida por IA.
+La version HOSS(-5) ha sido desarrollada con la colaboración de **Gemini (Google)** y **ChatGPT (OpenAI)**. Las ideas, el marco conceptual y la validación crítica son humanos; la implementación ha sido asistida por IA.
 
 > *“¿Qué pretendo encontrar, internándome en el viento?”*
 > — Taneda Santōka
